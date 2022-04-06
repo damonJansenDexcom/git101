@@ -498,7 +498,7 @@ Note that the history has not changed. There is just a new "merge commit" that r
   <tr>
    <td>I want to try out git commands, including pushing/pulling to a remote.
    </td>
-   <td>Go to<code> </code><a href="https://github.com/">https://github.com/</a> and login to your account.
+   <td>Go to <a href="https://github.com/">https://github.com/</a> and login to your account.
 You can make a new repo:
 <p>
 
