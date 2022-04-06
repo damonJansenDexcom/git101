@@ -13,7 +13,7 @@ Option 1: Git 101
   <tr>
    <td>Mac
    </td>
-   <td>git –version
+   <td>git --version
 <p>
 If you get a version, you’re good. If not, do the following:
 <p>
@@ -275,7 +275,7 @@ git stash apply puts back the changes for the most recent stash (<code>stash@{0}
   <tr>
    <td>I'd like to change the last commit message
    </td>
-   <td><code>git commit —amend</code>
+   <td><code>git commit --amend</code>
 <p>
 Change the text of your commit message
 <p>
@@ -283,11 +283,11 @@ Change the text of your commit message
 <p>
 …
 <p>
-<code>git push –force</code>
+<code>git push --force</code>
    </td>
-   <td>Read the error message. –amend rewrites history, so local remote cannot be integrated.
+   <td>Read the error message. --amend rewrites history, so local remote cannot be integrated.
 <p>
-<code>git push –force</code>
+<code>git push --force</code>
 <p>
 to rewrite over the remote, choosing the version that is local
    </td>
