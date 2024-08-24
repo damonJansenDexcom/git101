@@ -2,8 +2,6 @@
 
 ### Intro
 
-for i in $(seq 1 300); do; echo "# some comment" >> do-math.sh && git commit -am "opaque commit message"; done
-
 There is a bug in the "do-math.sh" script. It is a regression.  
 We do some investigation and try the code from the last release and see that the bug is not present.
 Let's pretend that looking at the code gives us no help in figuring out what the issue is.
